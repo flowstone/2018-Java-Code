@@ -1,4 +1,4 @@
-package me.xueyao.jdk8;
+package me.xueyao.jdk8.lambda;
 
 import java.util.Arrays;
 
